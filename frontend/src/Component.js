@@ -8,7 +8,7 @@ function Component() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code>Under Constuction!</code> 
+           <code> Site is still Under Constuction!</code> 
         </p>
         <a
           className="App-link"
